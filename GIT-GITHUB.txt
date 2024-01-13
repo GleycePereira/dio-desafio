@@ -1,0 +1,34 @@
+Versionamento de código
+
+Controlam as versões de um arquivo ao longo do tempo
+- Registra o histórico de atualizações de um arquivo
+- Gerencia quais forma as alterações, a data, autor, etc
+- Organização, controle e segurança
+
+
+Existe dois tipos de Sistemas de Controle de Versão (VCS)
+-VCS Centralizado (CVCS) e VCS Distrubuído (DVCS)
+
+
+GIT
+Sistema de controle de Versão Distribuído
+- Gratuito e Open Source (Código Aberto)
+- Ramificações (branching) e fusões (merging) eficientes
+- Leve e rápido
+
+Git clone – clona um repositório Git existente para um novo diretório (pasta) local/alternar
+Git commit – grava alterações no repositório
+Git pull – ‘puxa’ as alterações do repositório remoto para o local (busca e mescla) 
+Git push – ‘empurra’ as alterações do repositório local para o remoto
+
+
+Github
+Plataforma de hospedagem de código para controle de versão com Git, e colaboração
+- Comunidade ativa
+- Utilizado mundialmente
+- Mascote ‘Octocat’
+
+Git banco de versões, gerenciamento das versões do código
+Github servidor que está hospedando o código, repositório remoto
+
+
