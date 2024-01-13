@@ -1,0 +1,38 @@
+Programação
+Gameplay - Programação de um sistema, exemplo criar a mecânica do arco e flecha (pegar, mirar, força, distância etc.)
+-AI – sobre comportamento, esqueleto de um inimigo, por exemplo correndo saber qual caminho fazer, por onde pode ou não ir. Saber onde tem obstáculo, identificar chão, parede etc.
+-Networking – rede, comunicação entre servidores com diversos jogadores
+-Ferramentas – desenvolvendo ferramentas para outras pessoas da equipe possa ajudar sem saber de programação
+-GFX / Shaders – Arte gráfica
+
+Arte gráfica
+-Arte 2d / Arte 3d / Animação
+-Arte conceitual – Para facilitar como vai ser desenvolvido o jogo, direcionando o projeto para que todos entendam o conceito
+-UI / UX – User Interface, botões, navegação com o controle pelos botões, textos e diálogos, informações como em um jogo de corrida mostrando sua velocidade 
+-User Experience, se o usuário vai entender, sentir,
+-Tech Art – Artista tecnico, programador que tem habilidade com arte ou vice versa. Efeitos visuais, programação que via ser colocada direta na placa de vídeo. 
+
+Audio design
+-Efeitos sonoros / Trilhas sonoras
+-Programação de áudio – fazer conexão do áudio com a programação
+
+Game design
+-Prototipagem – sugerir ideias, como uma mecânica do jogo ao clicar em x botão. Programar algo rápido para testar o protótipo 
+-Arquitetura dos sistemas – Exemplo clicar no botão e ganhar moeda, mas qual botão? Quantas moedas? Quanto tempo precisa apertar esse botão? Como usar a moeda? Existe um mercador? Quais item ele vende?
+-Idealização do jogo – como será o jogo
+-Balanceamento – deixar dificuldade e recompensa viáveis
+-UX – o papel de decidir, como quando um personagem estiver passando por uma caverna ter a sensação de medo
+-Level design – criar o nível, ambiente, cenário
+
+
+
+Dicas para a sua carreira
+Plano de aprendizado
+-Objetivo final: aonde quer chegar
+-Passo a passo: o que precisa fazer
+-Inspirações e motivações: pessoas da área, empresas, lugar onde quer trabalhar
+
+Publicar jogos
+-Desenvolver protótipos
+-Finalizar projetos do começo ao fim
+-Sempre manter o escopo pequeno
